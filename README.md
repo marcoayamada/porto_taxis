@@ -31,8 +31,6 @@ ___
 
 Esse foi um desafio de 2015 que tinha 2 objetivos: prever o local de chegada dos passageiros e a duração da viagem. Até o momento foi realizada a previsão do local apenas.
 
-> Mais informações:
-
-> http://www.geolink.pt/ecmlpkdd2015-challenge/index.html
-
+> Mais informações: </br>
+> http://www.geolink.pt/ecmlpkdd2015-challenge/index.html </br>
 > https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge%2C+ECML+PKDD+2015
