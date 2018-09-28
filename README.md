@@ -27,7 +27,7 @@ https://github.com/marcoayamada/porto_taxis/blob/master/ml.ipynb
 
 ___
 
-## Melhorias
+#### Melhorias
 
 Esse foi um desafio de 2015 que tinha 2 objetivos: prever o local de chegada dos passageiros e a duração da viagem. Até o momento foi realizada a previsão do local apenas.
 
