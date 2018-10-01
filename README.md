@@ -25,6 +25,8 @@ https://github.com/marcoayamada/porto_taxis/blob/master/Transformations.ipynb
 
 https://github.com/marcoayamada/porto_taxis/blob/master/ml.ipynb
 
+![Real_pred](map/compare_img.PNG)
+
 ___
 
 #### Melhorias
