@@ -12,13 +12,6 @@ https://github.com/marcoayamada/porto_taxis/blob/master/EDA.ipynb
 
 ![Porto](img/taxi_gif.gif)
 
-
-## Transformações e conversões
-
-Esse notebook possui a maioria das conversões e tratamentos que foram feitos nos dados.
-
-https://github.com/marcoayamada/porto_taxis/blob/master/Transformations.ipynb
-
 ## Prevendo o local de chegada
 
 É possível prever onde o taxista deixará o cliente com base nos dados coletados durante um ano? Confira aqui:
@@ -27,6 +20,11 @@ https://github.com/marcoayamada/porto_taxis/blob/master/ml.ipynb
 
 ![Real_pred](map/compare_img.PNG)
 
+## Transformações e conversões
+
+Esse notebook possui a maioria das conversões e tratamentos que foram feitos nos dados.
+
+https://github.com/marcoayamada/porto_taxis/blob/master/Transformations.ipynb
 ___
 
 #### Melhorias
