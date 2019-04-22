@@ -16,7 +16,8 @@ https://github.com/marcoayamada/porto_taxis/blob/master/EDA.ipynb
 
 É possível prever onde o taxista deixará o cliente com base nos dados coletados durante um ano? Confira aqui:
 
-https://github.com/marcoayamada/porto_taxis/blob/master/ml.ipynb
+https://nbviewer.jupyter.org/github/marcoayamada/porto_taxis/blob/master/ml.ipynb - [[Github](https://github.com/marcoayamada/porto_taxis/blob/master/ml.ipynb)]
+
 
 ![Real_pred](map/compare_img.PNG)
 
@@ -24,7 +25,7 @@ https://github.com/marcoayamada/porto_taxis/blob/master/ml.ipynb
 
 Esse notebook possui a maioria das conversões e tratamentos que foram feitos nos dados.
 
-https://github.com/marcoayamada/porto_taxis/blob/master/Transformations.ipynb
+https://nbviewer.jupyter.org/github/marcoayamada/porto_taxis/blob/master/Transformations.ipynb -  [[Github](https://github.com/marcoayamada/porto_taxis/blob/master/Transformations.ipynb)]
 ___
 
 #### Melhorias
