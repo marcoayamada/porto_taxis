@@ -7,7 +7,7 @@ O dataset contém informações sobre a trajetória de milhares de táxis durant
 
 Algumas informações interessantes foram extraídas daqui. Sabia que um taxista anda, em média, 52 mil km por ano? oO
 
-https://github.com/marcoayamada/porto_taxis/blob/master/EDA.ipynb
+https://nbviewer.jupyter.org/github/marcoayamada/porto_taxis/blob/master/EDA.ipynb -[[Github](https://github.com/marcoayamada/porto_taxis/blob/master/EDA.ipynb)]
 
 
 ![Porto](img/taxi_gif.gif)
